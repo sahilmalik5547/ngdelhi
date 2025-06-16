@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "Angular 19 Launch",
+      "date": "2024-06-15",
+      "location": "Virtual",
+      "description": "Learn about the latest features in Angular 19"
+    },
+    {
+      "id": 2,
+      "title": "State Management Workshop",
+      "date": "2024-07-10",
+      "location": "Delhi Tech Hub",
+      "description": "Deep dive into NgRx and Signal Store"
+    }
+  ]
